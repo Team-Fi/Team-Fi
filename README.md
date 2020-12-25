@@ -1,1 +1,9 @@
 # Team-Fi
+ ## 멤버
+  * FSanchir
+  * MIMSO
+  * 오징어
+  * Soshimee
+  * AlphaGot
+ ## 프로젝트
+  * MCInfo
