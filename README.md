@@ -2,8 +2,6 @@
 =================================================
 ## [멤버](https://github.com/orgs/Team-Fi/people)
   * [FSanchir](https://github.com/fsanchir)
-  * [MIMSO](https://github.com/hello551)
-  * 오징어
   * [Soshimee](https://github.com/soshimee)
   * [AlphaGot](https://github.com/shs3182ym)
 ## 프로젝트
